@@ -1,6 +1,6 @@
 # Hello, I'm Syed.
 
-I've always been fascinated by data and its power to answer questions and uncover truths. For as long as I can remember, I've been driven to find the right answers and understand the world more deeply. 
+I've always been deeply interested in data, especially how it answers questions and helps us understand the truth. For as long as I can remember, I've been fascinated by the quest for the right answers and the empirical truths that data can reveal. Utilizing data to make better decisions and uncover deeper insights is something I find extremely enjoyable and fulfilling.
 
 ### My Journey with Data
 
