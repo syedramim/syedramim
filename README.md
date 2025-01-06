@@ -18,7 +18,7 @@ I design **scalable** solutions that fuse intuitive user interfaces with **robus
 
 | **Category**                 | **Skills**                                                                              |
 |:----------------------------:|:----------------------------------------------------------------------------------------|
-| **Programming Languages**    | Python, Java, Swift, SQL, JavaScript                                           |
+| **Programming Languages**    | Python, Java, Swift, SQL, JavaScript/TypeScript, HTML/CSS                                           |
 | **Web & App Development**    | SwiftUI, React Native, React.js, Full Stack Development, Firebase, REST APIs           |
 | **Software Development**     | OOP, Design Patterns, Agile (Scrum), Unit Tests       |
 | **Dev Tools & Platforms**    | CI/CD, Git, Docker, MySQL, Microsoft SQL Server                                        |
